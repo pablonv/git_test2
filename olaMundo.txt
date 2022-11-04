@@ -1,3 +1,6 @@
 Ola, Mundo!
 Eu sou o Pablo Nunes Vargas.
 Vamos aprender fundamentos do Git?
+Claro
+Qual é sua idade?
+36
