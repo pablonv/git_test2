@@ -4,3 +4,7 @@ Vamos aprender fundamentos do Git?
 Claro
 Qual é sua idade?
 36
+Qual a sua instituição?
+UNIR
+Qual o curso?
+Engenharia da Computação
